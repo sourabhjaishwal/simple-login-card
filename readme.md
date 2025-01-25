@@ -6,6 +6,8 @@
 
 A simple and attractive login card designed with HTML and CSS.
 
+➡️[Live Link](https://simple-login-card.vercel.app/)
+
 ### Screenshots
 
 ![Login Card Design](./assets/login-card.png)
